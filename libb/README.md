@@ -1,5 +1,7 @@
 > nvm use v19.7.0
->
+
+> parent 에서 child 의 파일 내용을 수정해봄
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
