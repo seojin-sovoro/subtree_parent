@@ -2,7 +2,7 @@
   "name": "subtree_parent",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seojin-sovoro.github.io/",
+  "homepage": "https://seojin-sovoro.github.io/subtree_parent/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
