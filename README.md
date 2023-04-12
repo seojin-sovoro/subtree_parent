@@ -1,2 +1,2 @@
 # subtree_parent
-git subtree 테스트를 위한 root 저장소
+서브트리를 사용할 상위 저장소
